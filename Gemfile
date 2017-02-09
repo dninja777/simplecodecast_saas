@@ -23,6 +23,9 @@ gem 'stripe'
 # use figaro to hide secret keys
 gem 'figaro'
 
+# upload images
+gem "paperclip", "~> 5.0.0"
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
